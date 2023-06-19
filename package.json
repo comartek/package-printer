@@ -1,5 +1,5 @@
 {
-  "name": "typescript-template",
+  "name": "star-pop10",
   "version": "1.0.5",
   "description": "A complete Node.js project template using TypeScript and following general best practices.",
   "keywords": [
@@ -21,6 +21,7 @@
     "dist/"
   ],
   "scripts": {
+    "run-demo": "ts-node demo.ts",
     "build": "npm run clean && npm run lint && tsc",
     "changelog": "conventional-changelog -p angular -u",
     "changelog:update": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
