@@ -3011,10 +3011,10 @@ signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.7.tgz#a9a1767f8af84155114eaabd73f99273c8f59ad9"
   integrity sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==
 
-sitka@^1.0.6:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/sitka/-/sitka-1.0.7.tgz#162d7ed995ffa4f7758e866a811ffe4ebf736d46"
-  integrity sha512-4bnB+BoFmZepf/72MzuNcKsU5dnHLfy/Ymm5BnfOaSp1VOovoj0BmREAnlRz6q3Bg/Oph5fBeLzTxG62YtgyLQ==
+sitka@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/sitka/-/sitka-1.1.1.tgz#3f93ccc84160e9c7a233d7afb3ec00630f92423c"
+  integrity sha512-GjvAdRLNH1eJZoTGtB2dHg1CGqZ3qoeBNbF5oWZL7tlWxMZ1WGnsPpJDmrcc302NA46qRUQZMXk0hiXW6HV+qA==
 
 slash@^3.0.0:
   version "3.0.0"
