@@ -43,7 +43,7 @@
     "@types/node": "^20.7.1",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
-    "chai": "^4.3.9",
+    "chai": "^4.3.10",
     "conventional-changelog-cli": "^2.2.2",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.50.0",
